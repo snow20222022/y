@@ -1,5 +1,5 @@
 {
-  "spider": "http://snow20222022.github.io/7/1.jar",
+  "spider": "http://snow20222022.github.io/u/ts0709.jar",
   "sites": [
   {"key":"360","name":"360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Ikan","name":"Ikan","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
