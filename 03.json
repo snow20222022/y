@@ -32,12 +32,13 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
+            "proxy://do=live&type=txt&ext=aHR0cDovL2dnLmdnL1pKUTY2Ng=="
           ]
         }
       ]
     }
   ],
+  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
   "flags": [
     "youku",
     "qq",
